@@ -1,0 +1,8 @@
+E:\Clipboard\My Project\Clipboard Listener\Clipboard Listener\bin\Debug\Clipboard Listener.exe
+E:\Clipboard\My Project\Clipboard Listener\Clipboard Listener\bin\Debug\Clipboard Listener.pdb
+E:\Clipboard\My Project\Clipboard Listener\Clipboard Listener\obj\x86\Debug\Clipboard_Listener.frmClientForm.resources
+E:\Clipboard\My Project\Clipboard Listener\Clipboard Listener\obj\x86\Debug\Clipboard_Listener.Properties.Resources.resources
+E:\Clipboard\My Project\Clipboard Listener\Clipboard Listener\obj\x86\Debug\Clipboard Listener.csproj.GenerateResource.Cache
+E:\Clipboard\My Project\Clipboard Listener\Clipboard Listener\obj\x86\Debug\Clipboard Listener.exe
+E:\Clipboard\My Project\Clipboard Listener\Clipboard Listener\obj\x86\Debug\Clipboard Listener.pdb
+E:\Clipboard\My Project\Clipboard Listener\Clipboard Listener\obj\x86\Debug\Clipboard Listener.csprojResolveAssemblyReference.cache
